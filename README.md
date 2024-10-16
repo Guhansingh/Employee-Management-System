@@ -20,7 +20,8 @@ A simple Employee Management System built using Python, SQLite3, and Tkinter. Th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
+   git clone [https://github.com/yourusername/employee-management-system.git](https://github.com/Guhansingh/Employee-Management-System)
+  
    ```
 
 2. Navigate to the project directory:
@@ -60,13 +61,11 @@ A simple Employee Management System built using Python, SQLite3, and Tkinter. Th
 
 Contributions are welcome! Please fork the repository and create a pull request for any enhancements or bug fixes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any inquiries, please reach out to [your.email@example.com].
+For any inquiries, please reach out to guhansingh.s@gmail.com.
 ```
 
 ### Notes
